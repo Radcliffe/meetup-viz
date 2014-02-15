@@ -1,0 +1,235 @@
+id1, name1, members1, id2, name2, members2, common, correlation
+163766, "Minnesota Web Design Professionals", 1072, 965888, "Minneapolis Internet Marketing Authority - SEM: SEO & PPC", 664, 133, 0.157641372944
+163766, "Minnesota Web Design Professionals", 1072, 1428502, "Web Developers / Designers - Twin Cities", 143, 85, 0.217096846134
+163766, "Minnesota Web Design Professionals", 1072, 1432142, "Twin Cities Open Workshop: Design, Technology & Programming", 203, 71, 0.152199398851
+163766, "Minnesota Web Design Professionals", 1072, 1519112, "Internet Marketing Geekery", 459, 107, 0.152538700496
+163766, "Minnesota Web Design Professionals", 1072, 1558487, "Minnesota PHP User Group", 643, 173, 0.208373853831
+163766, "Minnesota Web Design Professionals", 1072, 1559736, "Content Strategy - Minneapolis/St. Paul", 570, 100, 0.127927873106
+163766, "Minnesota Web Design Professionals", 1072, 1726715, "Twin Cities Drupal Group", 94, 36, 0.113407344497
+163766, "Minnesota Web Design Professionals", 1072, 1760013, "Minnesota Network of SEO's", 322, 87, 0.148079153841
+163766, "Minnesota Web Design Professionals", 1072, 1776979, "Google Developers Group - Twin Cities [GDG-TC]", 512, 126, 0.170074096286
+163766, "Minnesota Web Design Professionals", 1072, 2635652, "JavaScriptMN", 1003, 268, 0.258456188157
+163766, "Minnesota Web Design Professionals", 1072, 3006232, "Twin Cities Software Engineering", 311, 96, 0.166262247093
+163766, "Minnesota Web Design Professionals", 1072, 3204912, "Web App Dev", 73, 33, 0.117965528338
+163766, "Minnesota Web Design Professionals", 1072, 3491802, "Twin Cities (Data) Visualization Group", 480, 87, 0.121283365928
+163766, "Minnesota Web Design Professionals", 1072, 4085032, "Mobile Tech Meetup #mtm", 274, 63, 0.116243285233
+163766, "Minnesota Web Design Professionals", 1072, 4632202, "Node Summit Minnesota", 78, 31, 0.107205483492
+163766, "Minnesota Web Design Professionals", 1072, 5157092, "Minneapolis - St. Paul WordPress User Group", 440, 144, 0.209671190537
+163766, "Minnesota Web Design Professionals", 1072, 6681482, "'saint Paul Web Design and Development Lunch and Learns"", 129, 58, 0.155968087113
+163766, "Minnesota Web Design Professionals", 1072, 6871592, "RailsMN -- Rails for Beginners", 270, 68, 0.126394925411
+163766, "Minnesota Web Design Professionals", 1072, 7496862, "Lean UX MN", 154, 50, 0.123058679706
+163766, "Minnesota Web Design Professionals", 1072, 9189442, "NodeMN", 187, 56, 0.12507480402
+163766, "Minnesota Web Design Professionals", 1072, 10545312, "UX Design Discussion", 90, 32, 0.103022321238
+163766, "Minnesota Web Design Professionals", 1072, 11355542, "AngularMN", 170, 55, 0.128837068976
+965888, "Minneapolis Internet Marketing Authority - SEM: SEO & PPC", 664, 1428502, "Web Developers / Designers - Twin Cities", 143, 33, 0.107093196488
+965888, "Minneapolis Internet Marketing Authority - SEM: SEO & PPC", 664, 1519112, "Internet Marketing Geekery", 459, 187, 0.338728098445
+965888, "Minneapolis Internet Marketing Authority - SEM: SEO & PPC", 664, 1559736, "Content Strategy - Minneapolis/St. Paul", 570, 73, 0.118659193607
+965888, "Minneapolis Internet Marketing Authority - SEM: SEO & PPC", 664, 1578221, "Bootstrappers Breakfast - Minneapolis Entrepreneurs Meetup", 610, 81, 0.127272935686
+965888, "Minneapolis Internet Marketing Authority - SEM: SEO & PPC", 664, 1626361, "Minnesota Warrior Forum Mastermind", 143, 70, 0.22716738649
+965888, "Minneapolis Internet Marketing Authority - SEM: SEO & PPC", 664, 1760013, "Minnesota Network of SEO's", 322, 120, 0.259519066593
+965888, "Minneapolis Internet Marketing Authority - SEM: SEO & PPC", 664, 5157092, "Minneapolis - St. Paul WordPress User Group", 440, 65, 0.120254954606
+1428502, "Web Developers / Designers - Twin Cities", 143, 1432142, "Twin Cities Open Workshop: Design, Technology & Programming", 203, 32, 0.187816585417
+1428502, "Web Developers / Designers - Twin Cities", 143, 1519112, "Internet Marketing Geekery", 459, 28, 0.109290816324
+1428502, "Web Developers / Designers - Twin Cities", 143, 1558487, "Minnesota PHP User Group", 643, 45, 0.148401745309
+1428502, "Web Developers / Designers - Twin Cities", 143, 1726715, "Twin Cities Drupal Group", 94, 16, 0.138002844182
+1428502, "Web Developers / Designers - Twin Cities", 143, 2635652, "JavaScriptMN", 1003, 40, 0.105618867412
+1428502, "Web Developers / Designers - Twin Cities", 143, 3204912, "Web App Dev", 73, 11, 0.107662196603
+1428502, "Web Developers / Designers - Twin Cities", 143, 6681482, "'saint Paul Web Design and Development Lunch and Learns"", 129, 18, 0.132528606411
+1432142, "Twin Cities Open Workshop: Design, Technology & Programming", 203, 1558487, "Minnesota PHP User Group", 643, 40, 0.110715005488
+1432142, "Twin Cities Open Workshop: Design, Technology & Programming", 203, 1726715, "Twin Cities Drupal Group", 94, 18, 0.130304843614
+1432142, "Twin Cities Open Workshop: Design, Technology & Programming", 203, 1776979, "Google Developers Group - Twin Cities [GDG-TC]", 512, 37, 0.11476744799
+1432142, "Twin Cities Open Workshop: Design, Technology & Programming", 203, 1814298, "Hacks/Hackers Twin Cities", 275, 24, 0.101577349366
+1432142, "Twin Cities Open Workshop: Design, Technology & Programming", 203, 2635652, "JavaScriptMN", 1003, 52, 0.115240426832
+1432142, "Twin Cities Open Workshop: Design, Technology & Programming", 203, 3006232, "Twin Cities Software Engineering", 311, 26, 0.103477311011
+1432142, "Twin Cities Open Workshop: Design, Technology & Programming", 203, 6681482, "'saint Paul Web Design and Development Lunch and Learns"", 129, 18, 0.111231970521
+1432142, "Twin Cities Open Workshop: Design, Technology & Programming", 203, 6871592, "RailsMN -- Rails for Beginners", 270, 26, 0.111056363086
+1519112, "Internet Marketing Geekery", 459, 1559736, "Content Strategy - Minneapolis/St. Paul", 570, 65, 0.127077770278
+1519112, "Internet Marketing Geekery", 459, 1578221, "Bootstrappers Breakfast - Minneapolis Entrepreneurs Meetup", 610, 57, 0.107721798428
+1519112, "Internet Marketing Geekery", 459, 1626361, "Minnesota Warrior Forum Mastermind", 143, 57, 0.222484876088
+1519112, "Internet Marketing Geekery", 459, 1760013, "Minnesota Network of SEO's", 322, 86, 0.223699066935
+1519112, "Internet Marketing Geekery", 459, 5157092, "Minneapolis - St. Paul WordPress User Group", 440, 54, 0.120160320713
+1558389, "Twin Cities Hadoop User Group", 518, 1605177, "Twin Cities Amazon Web Services User Group", 345, 62, 0.146661884845
+1558389, "Twin Cities Hadoop User Group", 518, 1772838, "Twin Cities R User Group (TCRUG)", 330, 76, 0.183819568571
+1558389, "Twin Cities Hadoop User Group", 518, 1776979, "Google Developers Group - Twin Cities [GDG-TC]", 512, 53, 0.102914367494
+1558389, "Twin Cities Hadoop User Group", 518, 3491802, "Twin Cities (Data) Visualization Group", 480, 78, 0.156426059111
+1558389, "Twin Cities Hadoop User Group", 518, 4033502, "'splunk>mn"", 111, 36, 0.150132989152
+1558389, "Twin Cities Hadoop User Group", 518, 4653912, "Minneapolis St. Paul Cassandra Meetup", 75, 28, 0.142056961041
+1558389, "Twin Cities Hadoop User Group", 518, 7667362, "Big Data Developers in Minneapolis", 127, 59, 0.230030419421
+1558389, "Twin Cities Hadoop User Group", 518, 12224622, "Twin Cities Cloudera Users Group", 12, 9, 0.114152915122
+1558487, "Minnesota PHP User Group", 643, 1726715, "Twin Cities Drupal Group", 94, 36, 0.146431019979
+1558487, "Minnesota PHP User Group", 643, 1776979, "Google Developers Group - Twin Cities [GDG-TC]", 512, 79, 0.13768499855
+1558487, "Minnesota PHP User Group", 643, 2635652, "JavaScriptMN", 1003, 215, 0.267721042176
+1558487, "Minnesota PHP User Group", 643, 3006232, "Twin Cities Software Engineering", 311, 73, 0.163243981698
+1558487, "Minnesota PHP User Group", 643, 3204912, "Web App Dev", 73, 24, 0.110775654633
+1558487, "Minnesota PHP User Group", 643, 5157092, "Minneapolis - St. Paul WordPress User Group", 440, 80, 0.150403576038
+1558487, "Minnesota PHP User Group", 643, 6871592, "RailsMN -- Rails for Beginners", 270, 48, 0.115200368642
+1558487, "Minnesota PHP User Group", 643, 9189442, "NodeMN", 187, 40, 0.115354277019
+1559736, "Content Strategy - Minneapolis/St. Paul", 570, 1760013, "Minnesota Network of SEO's", 322, 53, 0.123711623392
+1559736, "Content Strategy - Minneapolis/St. Paul", 570, 7496862, "Lean UX MN", 154, 35, 0.118132734256
+1578221, "Bootstrappers Breakfast - Minneapolis Entrepreneurs Meetup", 610, 4898702, "Twin Cities Cofounder Dating", 78, 42, 0.192547139706
+1578221, "Bootstrappers Breakfast - Minneapolis Entrepreneurs Meetup", 610, 6654092, "Healthcare.mn", 483, 57, 0.105011381698
+1605177, "Twin Cities Amazon Web Services User Group", 345, 1776979, "Google Developers Group - Twin Cities [GDG-TC]", 512, 61, 0.145139394516
+1605177, "Twin Cities Amazon Web Services User Group", 345, 2635652, "JavaScriptMN", 1003, 61, 0.103697866438
+1605177, "Twin Cities Amazon Web Services User Group", 345, 3006232, "Twin Cities Software Engineering", 311, 35, 0.106850928969
+1605177, "Twin Cities Amazon Web Services User Group", 345, 3331632, "Minnesota Cloud Computing", 43, 18, 0.147784446642
+1605177, "Twin Cities Amazon Web Services User Group", 345, 3491802, "Twin Cities (Data) Visualization Group", 480, 42, 0.103209369308
+1605177, "Twin Cities Amazon Web Services User Group", 345, 4033502, "'splunk>mn"", 111, 20, 0.102201897421
+1605177, "Twin Cities Amazon Web Services User Group", 345, 5077852, "DevOps Minneapolis", 356, 70, 0.199739286185
+1605177, "Twin Cities Amazon Web Services User Group", 345, 5575842, "Minnesota OpenStack Meetup", 210, 35, 0.130031582934
+1605177, "Twin Cities Amazon Web Services User Group", 345, 7187112, "Twin Cities Infracoders", 84, 29, 0.170352616072
+1605177, "Twin Cities Amazon Web Services User Group", 345, 10905802, "Minneapolis Mongo DB User Group", 55, 15, 0.107916461825
+1626361, "Minnesota Warrior Forum Mastermind", 143, 1760013, "Minnesota Network of SEO's", 322, 29, 0.135145641259
+1726715, "Twin Cities Drupal Group", 94, 3331632, "Minnesota Cloud Computing", 43, 7, 0.110103185826
+1726715, "Twin Cities Drupal Group", 94, 5157092, "Minneapolis - St. Paul WordPress User Group", 440, 21, 0.103259265066
+1760013, "Minnesota Network of SEO's", 322, 5157092, "Minneapolis - St. Paul WordPress User Group", 440, 64, 0.170030056798
+1760013, "Minnesota Network of SEO's", 322, 6681482, "'saint Paul Web Design and Development Lunch and Learns"", 129, 21, 0.103037782541
+1772838, "Twin Cities R User Group (TCRUG)", 330, 3491802, "Twin Cities (Data) Visualization Group", 480, 98, 0.246234264739
+1772838, "Twin Cities R User Group (TCRUG)", 330, 7000412, "'sAS Users Group"", 35, 11, 0.102353263144
+1772838, "Twin Cities R User Group (TCRUG)", 330, 7667362, "Big Data Developers in Minneapolis", 127, 35, 0.170965788633
+1772838, "Twin Cities R User Group (TCRUG)", 330, 9892262, "PyMNtos - Twin Cities PUG", 259, 40, 0.136821119422
+1772838, "Twin Cities R User Group (TCRUG)", 330, 11131582, "Twin Cities D3.js Meetup Group", 79, 22, 0.136254911265
+1776979, "Google Developers Group - Twin Cities [GDG-TC]", 512, 2635652, "JavaScriptMN", 1003, 144, 0.20094492631
+1776979, "Google Developers Group - Twin Cities [GDG-TC]", 512, 3006232, "Twin Cities Software Engineering", 311, 66, 0.165397431326
+1776979, "Google Developers Group - Twin Cities [GDG-TC]", 512, 3204912, "Web App Dev", 73, 24, 0.12414088329
+1776979, "Google Developers Group - Twin Cities [GDG-TC]", 512, 3491802, "Twin Cities (Data) Visualization Group", 480, 63, 0.127082266047
+1776979, "Google Developers Group - Twin Cities [GDG-TC]", 512, 4085032, "Mobile Tech Meetup #mtm", 274, 47, 0.125483780977
+1776979, "Google Developers Group - Twin Cities [GDG-TC]", 512, 5077852, "DevOps Minneapolis", 356, 61, 0.142879478215
+1776979, "Google Developers Group - Twin Cities [GDG-TC]", 512, 8619922, "Minnesota Enterprise Mobile", 140, 28, 0.104582503317
+1776979, "Google Developers Group - Twin Cities [GDG-TC]", 512, 8708272, "Cordova/PhoneGap MN Users", 45, 17, 0.111997333798
+1776979, "Google Developers Group - Twin Cities [GDG-TC]", 512, 9189442, "NodeMN", 187, 49, 0.158358105061
+1776979, "Google Developers Group - Twin Cities [GDG-TC]", 512, 9892262, "PyMNtos - Twin Cities PUG", 259, 45, 0.123574155515
+1776979, "Google Developers Group - Twin Cities [GDG-TC]", 512, 10905802, "Minneapolis Mongo DB User Group", 55, 17, 0.100396813143
+1776979, "Google Developers Group - Twin Cities [GDG-TC]", 512, 11355542, "AngularMN", 170, 40, 0.135581536137
+1803965, "Minnesota-SharePoint-SharePint", 44, 11176322, "Microsoft Access Users Group", 17, 3, 0.109690863619
+1814298, "Hacks/Hackers Twin Cities", 275, 3389102, "ONA Twin Cities", 55, 15, 0.121967344227
+2622732, "MSP3D", 135, 4897992, "Twin Cities Robotics Meetup", 86, 13, 0.120649976718
+2622732, "MSP3D", 135, 8139292, "3D Creation Systems learn explore SLA,SLS,FDM & multijet", 51, 25, 0.301292302526
+2635652, "JavaScriptMN", 1003, 3006232, "Twin Cities Software Engineering", 311, 138, 0.247086163053
+2635652, "JavaScriptMN", 1003, 3204912, "Web App Dev", 73, 41, 0.15152069725
+2635652, "JavaScriptMN", 1003, 3491802, "Twin Cities (Data) Visualization Group", 480, 115, 0.165739778902
+2635652, "JavaScriptMN", 1003, 4632202, "Node Summit Minnesota", 78, 70, 0.250265089406
+2635652, "JavaScriptMN", 1003, 5077852, "DevOps Minneapolis", 356, 83, 0.1389001219
+2635652, "JavaScriptMN", 1003, 5157092, "Minneapolis - St. Paul WordPress User Group", 440, 77, 0.11590813566
+2635652, "JavaScriptMN", 1003, 6575132, "Groovy Users of Minnesota", 54, 33, 0.141796853364
+2635652, "JavaScriptMN", 1003, 6579332, "Meteor Minneapolis", 90, 45, 0.149775504988
+2635652, "JavaScriptMN", 1003, 6681482, "'saint Paul Web Design and Development Lunch and Learns"", 129, 45, 0.125102846698
+2635652, "JavaScriptMN", 1003, 6871592, "RailsMN -- Rails for Beginners", 270, 109, 0.209456648119
+2635652, "JavaScriptMN", 1003, 7496862, "Lean UX MN", 154, 41, 0.104321309466
+2635652, "JavaScriptMN", 1003, 8708272, "Cordova/PhoneGap MN Users", 45, 26, 0.122381740269
+2635652, "JavaScriptMN", 1003, 9189442, "NodeMN", 187, 130, 0.300173315757
+2635652, "JavaScriptMN", 1003, 9735702, "Open Twin Cities", 99, 39, 0.123764628686
+2635652, "JavaScriptMN", 1003, 9892262, "PyMNtos - Twin Cities PUG", 259, 79, 0.154998231413
+2635652, "JavaScriptMN", 1003, 10905802, "Minneapolis Mongo DB User Group", 55, 28, 0.118144511608
+2635652, "JavaScriptMN", 1003, 11131582, "Twin Cities D3.js Meetup Group", 79, 45, 0.159863199844
+2635652, "JavaScriptMN", 1003, 11188812, "EmberMN", 53, 39, 0.169151637232
+2635652, "JavaScriptMN", 1003, 11355542, "AngularMN", 170, 126, 0.305137524025
+2635652, "JavaScriptMN", 1003, 11755952, "Twin Cities .NET User Group", 161, 43, 0.107005241389
+3006232, "Twin Cities Software Engineering", 311, 3204912, "Web App Dev", 73, 25, 0.165919864395
+3006232, "Twin Cities Software Engineering", 311, 3331632, "Minnesota Cloud Computing", 43, 12, 0.103768806986
+3006232, "Twin Cities Software Engineering", 311, 3352572, "Twin Cities Test Automation Group", 139, 26, 0.125050592366
+3006232, "Twin Cities Software Engineering", 311, 3491802, "Twin Cities (Data) Visualization Group", 480, 48, 0.124233987303
+3006232, "Twin Cities Software Engineering", 311, 3746222, "Twin Cities Windows 8 User Group", 80, 17, 0.107776414985
+3006232, "Twin Cities Software Engineering", 311, 5077852, "DevOps Minneapolis", 356, 54, 0.162288806476
+3006232, "Twin Cities Software Engineering", 311, 5608222, "The MN IT Security Group", 63, 16, 0.114306127917
+3006232, "Twin Cities Software Engineering", 311, 6575132, "Groovy Users of Minnesota", 54, 16, 0.123464729212
+3006232, "Twin Cities Software Engineering", 311, 6681482, "'saint Paul Web Design and Development Lunch and Learns"", 129, 22, 0.109836739186
+3006232, "Twin Cities Software Engineering", 311, 6871592, "RailsMN -- Rails for Beginners", 270, 41, 0.141488707762
+3006232, "Twin Cities Software Engineering", 311, 11355542, "AngularMN", 170, 24, 0.104377426908
+3006232, "Twin Cities Software Engineering", 311, 11425832, "What you should have learned about Programming", 27, 10, 0.109128434079
+3204912, "Web App Dev", 73, 3331632, "Minnesota Cloud Computing", 43, 7, 0.124940253322
+3204912, "Web App Dev", 73, 5077852, "DevOps Minneapolis", 356, 18, 0.111657031111
+3204912, "Web App Dev", 73, 8708272, "Cordova/PhoneGap MN Users", 45, 7, 0.122132248604
+3204912, "Web App Dev", 73, 8712982, "Twin Cities Meteor Developers Group", 10, 3, 0.11103498153
+3331632, "Minnesota Cloud Computing", 43, 5077852, "DevOps Minneapolis", 356, 17, 0.137400937068
+3331632, "Minnesota Cloud Computing", 43, 5575842, "Minnesota OpenStack Meetup", 210, 10, 0.105234011235
+3331632, "Minnesota Cloud Computing", 43, 8233742, "WSO2 Middleware", 14, 3, 0.122270871891
+3331632, "Minnesota Cloud Computing", 43, 9701232, "u"Twin Cities PC Users" Group"", 8, 2, 0.107832773203
+3389102, "ONA Twin Cities", 55, 9531442, "u"Flipboard Flip "n" Sips"", 4, 2, 0.134839972493
+3491802, "Twin Cities (Data) Visualization Group", 480, 4033502, "'splunk>mn"", 111, 24, 0.103975048982
+3491802, "Twin Cities (Data) Visualization Group", 480, 6871592, "RailsMN -- Rails for Beginners", 270, 37, 0.102777777778
+3491802, "Twin Cities (Data) Visualization Group", 480, 7667362, "Big Data Developers in Minneapolis", 127, 39, 0.157958182446
+3491802, "Twin Cities (Data) Visualization Group", 480, 8883332, "BI Analytics and Data Visualization with Tablea", 48, 23, 0.15152580455
+3491802, "Twin Cities (Data) Visualization Group", 480, 9735702, "Open Twin Cities", 99, 36, 0.165144564769
+3491802, "Twin Cities (Data) Visualization Group", 480, 9892262, "PyMNtos - Twin Cities PUG", 259, 50, 0.141807598913
+3491802, "Twin Cities (Data) Visualization Group", 480, 11131582, "Twin Cities D3.js Meetup Group", 79, 52, 0.267035609756
+4033502, "'splunk>mn"", 111, 5077852, "DevOps Minneapolis", 356, 36, 0.181098983392
+4033502, "'splunk>mn"", 111, 5575842, "Minnesota OpenStack Meetup", 210, 19, 0.124446436216
+4033502, "'splunk>mn"", 111, 7187112, "Twin Cities Infracoders", 84, 11, 0.113917790434
+4033502, "'splunk>mn"", 111, 7667362, "Big Data Developers in Minneapolis", 127, 12, 0.101068983119
+4033502, "'splunk>mn"", 111, 9737312, "Twin Cities Neo4j and Graph DB Meetup", 22, 5, 0.101180582315
+4085032, "Mobile Tech Meetup #mtm", 274, 8619922, "Minnesota Enterprise Mobile", 140, 30, 0.153172907266
+4085032, "Mobile Tech Meetup #mtm", 274, 10545312, "UX Design Discussion", 90, 17, 0.108256101986
+4321972, "Apple Users of Minneapolis", 19, 7197442, "Cloud Foundry Minneapolis - St Paul", 3, 1, 0.132453235707
+4597712, "Concrete5 Minnesota", 29, 8708272, "Cordova/PhoneGap MN Users", 45, 6, 0.166090959707
+4632202, "Node Summit Minnesota", 78, 6579332, "Meteor Minneapolis", 90, 17, 0.202899214311
+4632202, "Node Summit Minnesota", 78, 8712982, "Twin Cities Meteor Developers Group", 10, 4, 0.143222974808
+4632202, "Node Summit Minnesota", 78, 9189442, "NodeMN", 187, 29, 0.240120861747
+4632202, "Node Summit Minnesota", 78, 11188812, "EmberMN", 53, 9, 0.139977190761
+4632202, "Node Summit Minnesota", 78, 11355542, "AngularMN", 170, 27, 0.234472547574
+4653912, "Minneapolis St. Paul Cassandra Meetup", 75, 6575132, "Groovy Users of Minnesota", 54, 9, 0.141421356237
+4653912, "Minneapolis St. Paul Cassandra Meetup", 75, 7667362, "Big Data Developers in Minneapolis", 127, 15, 0.153694655874
+4653912, "Minneapolis St. Paul Cassandra Meetup", 75, 9706392, "Minneapolis Area Apache Lucene/Solr Meetup", 42, 8, 0.14253932902
+4897992, "Twin Cities Robotics Meetup", 86, 7463632, "Robotics Alley & Twin Cities AUVSI Chapter Meetup", 27, 15, 0.311286403182
+4897992, "Twin Cities Robotics Meetup", 86, 7881632, "Minnesota Autonomous Vehicle Meetup", 46, 16, 0.2543852003
+4897992, "Twin Cities Robotics Meetup", 86, 8139292, "3D Creation Systems learn explore SLA,SLS,FDM & multijet", 51, 9, 0.13589647625
+4897992, "Twin Cities Robotics Meetup", 86, 9546322, "Hacking MN", 47, 7, 0.110103185826
+4898702, "Twin Cities Cofounder Dating", 78, 8857372, "Enterprise.MN", 48, 9, 0.147087101354
+4898702, "Twin Cities Cofounder Dating", 78, 11490312, "Lean Startup Twin Cities", 69, 8, 0.108266392392
+5077852, "DevOps Minneapolis", 356, 5575842, "Minnesota OpenStack Meetup", 210, 53, 0.193839027942
+5077852, "DevOps Minneapolis", 356, 7187112, "Twin Cities Infracoders", 84, 62, 0.358531276596
+5077852, "DevOps Minneapolis", 356, 9189442, "NodeMN", 187, 33, 0.127899291182
+5157092, "Minneapolis - St. Paul WordPress User Group", 440, 6681482, "'saint Paul Web Design and Development Lunch and Learns"", 129, 34, 0.142711090144
+5157092, "Minneapolis - St. Paul WordPress User Group", 440, 6871592, "RailsMN -- Rails for Beginners", 270, 35, 0.101545299307
+5449082, "HPC & GPU Supercomputing Group of Minnesota", 55, 12427062, "Twin Cities In-Memory Computing Meetup", 13, 4, 0.149591518401
+5575842, "Minnesota OpenStack Meetup", 210, 7187112, "Twin Cities Infracoders", 84, 19, 0.14305541796
+6251592, "MN Healthcare IT", 127, 6654092, "Healthcare.mn", 483, 67, 0.270519998813
+6251592, "MN Healthcare IT", 127, 8857372, "Enterprise.MN", 48, 8, 0.102463103916
+6575132, "Groovy Users of Minnesota", 54, 11355542, "AngularMN", 170, 15, 0.156556072771
+6579332, "Meteor Minneapolis", 90, 8712982, "Twin Cities Meteor Developers Group", 10, 8, 0.266666666667
+6579332, "Meteor Minneapolis", 90, 9189442, "NodeMN", 187, 19, 0.146457475187
+6620072, "HaskellMN", 28, 9892262, "PyMNtos - Twin Cities PUG", 259, 11, 0.129170632883
+6620072, "HaskellMN", 28, 10188842, "Minnesota D Programmers", 24, 3, 0.115727512472
+6654092, "Healthcare.mn", 483, 6871592, "RailsMN -- Rails for Beginners", 270, 38, 0.105227232659
+6654092, "Healthcare.mn", 483, 8857372, "Enterprise.MN", 48, 16, 0.105081387499
+6871592, "RailsMN -- Rails for Beginners", 270, 9189442, "NodeMN", 187, 34, 0.151312996453
+6871592, "RailsMN -- Rails for Beginners", 270, 9892262, "PyMNtos - Twin Cities PUG", 259, 28, 0.105883007188
+7000412, "'sAS Users Group"", 35, 8883332, "BI Analytics and Data Visualization with Tablea", 48, 8, 0.19518001459
+7187112, "Twin Cities Infracoders", 84, 9892262, "PyMNtos - Twin Cities PUG", 259, 15, 0.101695499545
+7197442, "Cloud Foundry Minneapolis - St Paul", 3, 8233742, "WSO2 Middleware", 14, 1, 0.154303349962
+7197442, "Cloud Foundry Minneapolis - St Paul", 3, 9400192, "Corona SDK Minneapolis/St. Paul meetup", 8, 1, 0.204124145232
+7463632, "Robotics Alley & Twin Cities AUVSI Chapter Meetup", 27, 7881632, "Minnesota Autonomous Vehicle Meetup", 46, 6, 0.170251306152
+7463632, "Robotics Alley & Twin Cities AUVSI Chapter Meetup", 27, 10950072, "LearningTeams MN - Applications development and programming", 11, 3, 0.174077655956
+7496862, "Lean UX MN", 154, 10545312, "UX Design Discussion", 90, 25, 0.212352996432
+7592852, "Twin Cities DotNetNuke Users Group", 7, 7710812, "Minnesota DNN Users Group", 4, 3, 0.566946709514
+7667362, "Big Data Developers in Minneapolis", 127, 8883332, "BI Analytics and Data Visualization with Tablea", 48, 12, 0.153694655874
+7667362, "Big Data Developers in Minneapolis", 127, 9737312, "Twin Cities Neo4j and Graph DB Meetup", 22, 6, 0.113511026082
+7881632, "Minnesota Autonomous Vehicle Meetup", 46, 9546322, "Hacking MN", 47, 5, 0.107533098405
+8233742, "WSO2 Middleware", 14, 9735702, "Open Twin Cities", 99, 4, 0.10744306187
+8569342, "Minnesota Futurists", 79, 12681132, "Minneapolis CIO Meetup, not the good guys, the IT ones.", 1, 1, 0.112508790093
+8708272, "Cordova/PhoneGap MN Users", 45, 9400192, "Corona SDK Minneapolis/St. Paul meetup", 8, 2, 0.105409255339
+8712982, "Twin Cities Meteor Developers Group", 10, 9189442, "NodeMN", 187, 6, 0.138749187019
+8712982, "Twin Cities Meteor Developers Group", 10, 10138932, "Minneapolis/Saint Paul django Meetup Group", 28, 2, 0.119522860933
+8857372, "Enterprise.MN", 48, 9069312, "Twin Cities E-Commerce Meetup", 124, 8, 0.103695169473
+9189442, "NodeMN", 187, 9735702, "Open Twin Cities", 99, 16, 0.117593030321
+9189442, "NodeMN", 187, 9892262, "PyMNtos - Twin Cities PUG", 259, 29, 0.131773266768
+9189442, "NodeMN", 187, 10905802, "Minneapolis Mongo DB User Group", 55, 16, 0.156352620999
+9189442, "NodeMN", 187, 11131582, "Twin Cities D3.js Meetup Group", 79, 18, 0.1480942362
+9189442, "NodeMN", 187, 11188812, "EmberMN", 53, 14, 0.14062718961
+9189442, "NodeMN", 187, 11355542, "AngularMN", 170, 54, 0.302864587172
+9400192, "Corona SDK Minneapolis/St. Paul meetup", 8, 10338812, "Twin Cities Lua", 12, 1, 0.102062072616
+9546322, "Hacking MN", 47, 9701232, "u"Twin Cities PC Users" Group"", 8, 2, 0.103142124626
+9701232, "u"Twin Cities PC Users" Group"", 8, 10950072, "LearningTeams MN - Applications development and programming", 11, 1, 0.106600358178
+9701232, "u"Twin Cities PC Users" Group"", 8, 11425832, "What you should have learned about Programming", 27, 2, 0.136082763488
+9701232, "u"Twin Cities PC Users" Group"", 8, 12224622, "Twin Cities Cloudera Users Group", 12, 1, 0.102062072616
+9735702, "Open Twin Cities", 99, 9892262, "PyMNtos - Twin Cities PUG", 259, 17, 0.106165019055
+9735702, "Open Twin Cities", 99, 11131582, "Twin Cities D3.js Meetup Group", 79, 12, 0.135690706311
+9892262, "PyMNtos - Twin Cities PUG", 259, 10138932, "Minneapolis/Saint Paul django Meetup Group", 28, 24, 0.281826835381
+10138932, "Minneapolis/Saint Paul django Meetup Group", 28, 10454462, "Twin Cities GWT User Group", 11, 2, 0.11396057646
+10138932, "Minneapolis/Saint Paul django Meetup Group", 28, 11355542, "AngularMN", 170, 7, 0.101459931239
+10905802, "Minneapolis Mongo DB User Group", 55, 11355542, "AngularMN", 170, 12, 0.122988009254
+10950072, "LearningTeams MN - Applications development and programming", 11, 11425832, "What you should have learned about Programming", 27, 2, 0.116051770637
+11131582, "Twin Cities D3.js Meetup Group", 79, 11355542, "AngularMN", 170, 13, 0.11217739382
+11188812, "EmberMN", 53, 11355542, "AngularMN", 170, 23, 0.242306709813
+11355542, "AngularMN", 170, 11755952, "Twin Cities .NET User Group", 161, 23, 0.139024210454
+11425832, "What you should have learned about Programming", 27, 12427062, "Twin Cities In-Memory Computing Meetup", 13, 2, 0.106752102537
+12224622, "Twin Cities Cloudera Users Group", 12, 12427062, "Twin Cities In-Memory Computing Meetup", 13, 2, 0.160128153805
