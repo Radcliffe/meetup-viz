@@ -2,14 +2,16 @@
 from collections import defaultdict
 from itertools import combinations
 import csv
+import json
 
 membership = defaultdict(set)
 group_names = dict()
 num_members = dict()
 group_ids = []
+graph = {"nodes":[], "edges":[]}
 
-with open("groups.csv", "rb") as csvfile:
-    f = csv.reader(csvfile, delimiter=',', quotechar='"')
+with open("groups.csv", "rb") as csv_file:
+    f = csv.reader(csv_file, delimiter=',', quotechar='"')
     f.next()
     for row in f:
         print row
@@ -18,6 +20,7 @@ with open("groups.csv", "rb") as csvfile:
             group_ids.append(group_id)
             group_names[group_id] = group_name
             num_members[group_id] = members
+num_groups = len(group_ids)
 
 
 # 'group_id', 'member_id', 'joined'
@@ -30,15 +33,17 @@ f.close()
 
 f = open("common_members.csv", "w")
 output = ["id1, name1, members1, id2, name2, members2, common, correlation\n"]
-for group1, group2 in combinations(group_ids, 2):
+
+for i in xrange(num_groups-1):
+    group1 = group_ids[i]
     g1 = len(membership[group1])
-    g2 = len(membership[group2])
-    common_members = len(membership[group1].intersection(membership[group2]))
-    if common_members > 0:
-        corr = common_members / (g1*g2)**0.5
-        if corr > 0.1:
-            row = [group1, '"'+group_names[group1]+'"', num_members[group1],
-                   group2, '"'+group_names[group2]+'"', num_members[group2], str(common_members), str(corr)]
-            output.append(', '.join(row)+'\n')
+    for j in xrange(i+1, num_groups):
+        group2 = group_ids[j]
+        g2 = len(membership[group2])
+        common_members = len(membership[group1].intersection(membership[group2]))
+        if common_members > 0:
+            corr = common_members / (g1*g2)**0.5
+            if corr > 0.1:
+
 f.writelines(output)
 f.close()
